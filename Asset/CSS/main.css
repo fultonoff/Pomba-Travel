@@ -451,7 +451,8 @@ section {
 
 @media (max-width: 768px) {
   img {
-    display: none;
+    width: 50%;
+    margin: 40px auto;
   }
   .container {
     text-align: center;
