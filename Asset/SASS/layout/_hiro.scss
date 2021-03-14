@@ -5,10 +5,19 @@
     background-size: cover;
     overflow: hidden;
     background-attachment: fixed;
-   
-   
 
-    
+}
 
-    
+
+@media (max-width: 768px){
+    img{
+       
+        width: 50%;
+        margin: 40px auto;
+    }
+    .container{
+        text-align: center;
+    }
+
+
 }
