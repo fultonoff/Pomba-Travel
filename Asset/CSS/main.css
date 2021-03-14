@@ -457,4 +457,7 @@ section {
   .container {
     text-align: center;
   }
+  .tittle {
+    margin-top: -60px;
+  }
 }
